@@ -21,7 +21,7 @@ body{
 
 #container{
     display: flex;
-    width: 69rem;/*nice*/
+    width: 69rem;
     margin: auto;
     flex-direction: column;
     text-align: left;
